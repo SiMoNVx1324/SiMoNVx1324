@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SiMoN_Vx
+- 🌱 I’m currently learning C++ and python
+- 📫 You can reach me up on discord -- SiMoN_Vx#4054
