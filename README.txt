@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @SiMoN_Vx
-- 🌱 I’m currently learning C++ and python
-- 📫 You can reach me up on discord -- SiMoN_Vx#4054
+This is a nice Grabber for discord in .exe undetected for Anti Virus dont use it for ilegal things but have fun trolling Friends or family
